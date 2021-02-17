@@ -1,1 +1,1 @@
-# util-shell-scripts
+# Util Shell Scripts Linux/MacOS
